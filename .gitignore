@@ -1,6 +1,8 @@
 #Mortify
 /bin/*
 /bin-int/*
+GLFW.project
+compile_flags.txt
 
 # External junk
 .DS_Store
