@@ -22,6 +22,8 @@ MinSizeRel
 RelWithDebInfo
 *.xcodeproj
 
+GLFW.txt
+
 # macOS clutter
 .DS_Store
 
@@ -102,4 +104,27 @@ tests/title
 tests/triangle-vulkan
 tests/window
 tests/windows
+
+# Codelite
+
+Debug
+Release
+Release_gcc_unicode
+DebugUnicode
+*.project
+*.session
+*.tags
+*.d
+*.o
+*.pyc
+bin
+bin/ofMaker
+lib
+*.mk
+*.workspace.session
+*.workspace
+compile_flags.txt
+Makefile
+.codelite/
+.build-debug/
 
